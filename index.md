@@ -8,12 +8,13 @@ I am currently a second year Ph.D. student in the Department of Computer Science
 
 ## Education
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+*2023-now* Ph.D. in Computer Science, Xi'an Jiaotong University
+
+*2019-2023* B.S. in Computer Science, Xi'an Jiaotong University
 
 ## Publications
 
-- Zhendong Tan, Xingjun Zhang, Zheng Wei. [WRP: Weight Recover Prune for Structured Sparsity](https://aclanthology.org/2024.acl-long.347/) *The 62nd Annual Meeting of the Association for Computational Linguistics (**ACL**), August 2024.*
+- **Zhendong Tan**, Xingjun Zhang, Zheng Wei. [WRP: Weight Recover Prune for Structured Sparsity](https://aclanthology.org/2024.acl-long.347/) *The 62nd Annual Meeting of the Association for Computational Linguistics (**ACL**), August 2024.*
 
 ## Awards
 
