@@ -20,7 +20,6 @@ I am currently a second year Ph.D. student in the Department of Computer Science
 ## Awards
 
 - Phytium Cup 2024 "Innovative Application Design of Multicore Systems Based on the Phytium Platform", National Third Prize
-
 - Mathematical Contest in Modeling (MCM) 2023, Finalist
 - Mathematical Contest in Modeling (MCM) 2022, Finalist
 - Second Prize Scholarship 2022 at Xi'an Jiaotong University
