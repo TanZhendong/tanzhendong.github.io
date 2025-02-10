@@ -15,6 +15,7 @@ I am currently a second year Ph.D. student in the Department of Computer Science
 ## Publications
 
 - **Zhendong Tan**, Xingjun Zhang, Zheng Wei. [WRP: Weight Recover Prune for Structured Sparsity](https://aclanthology.org/2024.acl-long.347/) *The 62nd Annual Meeting of the Association for Computational Linguistics (**ACL**), August 2024.*
+- Zheng Wei, Xingjun Zhang, **Zhendong Tan**. Unifying and revisiting Sharpness-Aware Minimization with noise-injected micro-batch scheduler for efficiency improvement[J]. Neural Networks, 2025: 107205.
 - Zhihang Cai, Xingjun Zhang, **Zhendong Tan**, Zheng Wei. NQKV: A KV Cache Quantization Scheme Based on Normal Distribution Characteristics *Neural Networks (Under Review)*
 
 ## Awards
