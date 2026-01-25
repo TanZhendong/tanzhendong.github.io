@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a second year Ph.D. student in the Department of Computer Science at Xi'an Jiaotong University supervised by Professor Xingjun Zhang. Before that, I obtained bachelor degree at Xi'an Jiaotong University in 2023. My research interests include efficient model inference, large language models, model compression, and high-performance computing and storage. 
+I am currently a third year Ph.D. student in the Department of Computer Science at Xi'an Jiaotong University supervised by Professor Xingjun Zhang. Before that, I obtained bachelor degree at Xi'an Jiaotong University in 2023. My research interests include efficient model inference, large language models, model compression, and high-performance computing and storage. 
 
 ## Education
 
@@ -14,6 +14,7 @@ I am currently a second year Ph.D. student in the Department of Computer Science
 
 ## Publications
 
+- **Zhendong Tan**, Xingjun Zhang, Chaoyi Hu, et al. SpecPV: Improving Self-Speculative Decoding for Long-Context Generation via Partial Verification *arXiv. 2025*
 - **Zhendong Tan**, Xingjun Zhang, Zheng Wei. [WRP: Weight Recover Prune for Structured Sparsity](https://aclanthology.org/2024.acl-long.347/) *The 62nd Annual Meeting of the Association for Computational Linguistics (**ACL**), August 2024.*
 - **Zhendong Tan**, Xingjun Zhang, Chaoyi Hu, et al. Adaptive Rectification Sampling for Test-Time Compute Scaling *arXiv. 2025*
 - Zheng Wei, Xingjun Zhang, **Zhendong Tan**. Unifying and revisiting Sharpness-Aware Minimization with noise-injected micro-batch scheduler for efficiency improvement *Neural Networks, 2025: 107205*.
